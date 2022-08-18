@@ -9,7 +9,7 @@
   </tr>
   </table>
 
-IMPROVE (v0.9) provided with the bioRxiv publication and for review.<br>
+IMPROVE (v0.9) provided with the medRxiv publication and for review.<br>
   Please use the updated version <a href="https://github.com/Stuart-Aitken/IMPROVE-DD"> IMPROVE-DD</a> that incorporates review.
 
   

@@ -9,8 +9,8 @@
   </tr>
   </table>
 
-IMPROVE (v0.9) provided with the bioRxiv publication and for review.\n
-  Please use the updated version <a href="https://github.com/Stuart-Aitken/IMPROVE"> IMPROVE-DD</a> that incorporates review.
+IMPROVE (v0.9) provided with the bioRxiv publication and for review.<br>
+  Please use the updated version <a href="https://github.com/Stuart-Aitken/IMPROVE-DD"> IMPROVE-DD</a> that incorporates review.
 
   
   Code used for Figures 2 and 3. Depends on the Human phenotype ontology: https://hpo.jax.org/
